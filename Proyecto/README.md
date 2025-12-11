@@ -1,6 +1,6 @@
 # Plant Classification – Medicinal Plants Classifier
 
-**Autor:** Juan Jeronimo Castaño Rivera  
+**Autores:** Juan Jeronimo Castaño Rivera  y Campos Herney Tulcan Cuasapud
 **Universidad Nacional de Colombia – Procesamiento Digital de Imágenes (PDI)**
 
 Este proyecto implementa un clasificador de plantas medicinales utilizando **YOLOv8 en modo de clasificación**, junto con una **aplicación interactiva** desplegada en **HuggingFace Spaces** y un **script de inferencia local**.
